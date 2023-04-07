@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·Š·£8€é†–ô0
+\
+java:S1854":Remove this useless assignment to local variable "answer".(ÈÖý’ÿÿÿÿÿ8Í½„–ô0
+M
+java:S1481"+Remove this unused "answer" local variable.(ÈÖý’ÿÿÿÿÿ8‚é†–ô0

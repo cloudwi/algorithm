@@ -1,0 +1,6 @@
+
+L
+java:S1066&"/Merge this if statement with the enclosing one.(àÇÔÒ8¥∑Ô€Ù0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(È˛ïß8„∑Ô€Ù0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ò’ôπ8„∑Ô€Ù0

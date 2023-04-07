@@ -1,0 +1,7 @@
+
+u	java:S135'"YReduce the total number of break and continue statements in this loop to use at most one.(ÒÇ–æ8ŒéÛ³õ0
+Y
+java:S25890"7Remove this expression which always evaluates to "true"(äè–Ðûÿÿÿÿ8ú¥Ú³õ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•ì•†8Íð×³õ0
+i
+java:S1871:"LThis branch's code block is the same as the block for the branch on line 52.(å¥ž‡8Ïð×³õ0
